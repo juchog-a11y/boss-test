@@ -1,0 +1,6 @@
+{
+  "name": "GitHub Connect & Integration Hub",
+  "description": "Руководство и интерактивный центр для подключения GitHub к проекту Google AI Studio, работы с GitHub API, репозиториями и OAuth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
